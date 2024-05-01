@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "754023666887",
+    "project_id": "taverna-ecf6b",
+    "storage_bucket": "taverna-ecf6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754023666887:android:cc129f3e9d24b507275ae2",
+        "android_client_info": {
+          "package_name": "com.example.taverna"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD15foNTemtVde1abVSklOM77lCi4OQ7jA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
